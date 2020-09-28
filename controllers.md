@@ -17,7 +17,7 @@ A list of Renogy Charge Controllers that have been tested (feel free to submit a
 |:--------------------|---------|--------------------|--------------------|-------|
 | `RNG-CTRL-RVR20`    | V030001 | :white_check_mark: | :white_check_mark: | 20A model, aka `ROVER20A` |
 | `RNG-CTRL-RVR30`    | VXXXXXX | :x:                | :grey_question:    | 30A model, aka `ROVER30A` |
-| `RNG-CTRL-RVR40`    | VXXXXXX | :x:                | :grey_question:    | 40A model, aka `ROVER40A` |
+| `RNG-CTRL-RVR40`    | V030001 | :white_check_mark: | :white_check_mark: | 40A model, aka `ROVER40A` |
 | `RNG-CTRL-RVR60`    | VXXXXXX | :x:                | :grey_question:    | 60A model, aka `ROVER60A` |
 | `RNG-CTRL-RVR100`   | VXXXXXX | :x:                | :grey_question:    | 100A model, aka `ROVER100A` |
 
