@@ -12,7 +12,7 @@ You can also scan this QR code to connect to the WiFi network.
 ![WiFi QR](https://github.com/enwi/RNGToWiFi/blob/master/images/qr_wifi_rngbridge.png)
 
 ## Step 3
-Once connected open up a browser, type in the URL `192.168.1.1` and open the website (or click on [this](http://191.168.1.1)).
+Once connected open up a browser, type in the URL `192.168.1.1` and open the website (or click on <a href="http://192.168.1.1" target="_blank">this</a>).
 After the page loaded, you are presented with the user interface of `RNG to WiFi`.
 Alternatively you can scan this QR code to open the browser with the correct URL.
 
@@ -35,7 +35,7 @@ After that `RNG to WiFi` will scan all nearby WiFi networks and if a network wit
 
 ## Step 5
 Once `RNG to WiFi` has connected successfully with your local WiFi network you can access the user interface from your browser like in `Step 3`.
-To make things easier you can use the URL `http://rngbridge.local`, click on [this](http://rngbridge.local) or again scan the QR code below.
+To make things easier you can use the URL `http://rngbridge.local`, click on <a href="http://rngbridge.local" target="_blank">this</a> or again scan the QR code below.
 ![WiFi URL QR](https://github.com/enwi/RNGToWiFi/blob/master/images/qr_url_rngbridge.png)
 
 > On some phones or browsers you might run into the issue that the page won't load with the error `DNS_PROBE_FINISHED_NXDOMAIN`.
