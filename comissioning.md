@@ -19,7 +19,7 @@ Alternatively you can scan this QR code to open the browser with the correct URL
 ![WiFi IP QR](https://github.com/enwi/RNGToWiFi/blob/master/images/qr_url_192.168.1.1.png)
 
 If you want to use `RNG to WiFi` as standalone aka in access point mode you are done with comissioning now. 
-If you want to conect `RNG to WiFi` with your local WiFi network continue with step 4.
+If you want to connect `RNG to WiFi` with your local WiFi network continue with step 4.
 
 ## Step 4
 Click on the `WiFi` tab to open the WiFi settings.
@@ -38,7 +38,7 @@ Once `RNG to WiFi` has connected successfully with your local WiFi network you c
 To make things easier you can use the URL `http://rngbridge.local` or again scan the QR code below.
 ![WiFi URL QR](https://github.com/enwi/RNGToWiFi/blob/master/images/qr_url_rngbridge.png)
 
-> On some phones or browsers you might run into the issue that the page won't load with the error `DNS_PROBE_FINISHED_NNXDOMAIN`.
+> On some phones or browsers you might run into the issue that the page won't load with the error `DNS_PROBE_FINISHED_NXDOMAIN`.
 > In this case I recommend using a different browser or device.
 
 If everything worked out fine you are now setup. For infos on how to setup `MQTT` or `PVOutput` please take a look at the respective guides [MQTT](https://github.com/enwi/RNGToWiFi/blob/master/mqtt.md) and [PVOutput](https://github.com/enwi/RNGToWiFi/blob/master/pvoutput.md).
