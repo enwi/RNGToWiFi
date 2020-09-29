@@ -5,7 +5,7 @@
 1. Go to the MQTT tab
 2. Enter the MQTT Broker ip e.g. `192.168.2.16` in the `Broker IP` field
 3. Enter the MQTT Broker port e.g. `1883` in the `Broker Port` field (default is 1883 so if you are using the same port you can skip this step)
-4. Enter the MQTT Topic where `RNG ro WiFi` should publish the data e.g `/solar/rng` (default is `/rng`)
+4. Enter the MQTT Topic where `RNG to WiFi` should publish the data e.g `/solar/rng` (default is `/rng`)
 5. Enable the MQTT service by enabling the `Enable` switch
 6. Watch the `Status` field, it should display `Connected` if everything went according to plan
 
