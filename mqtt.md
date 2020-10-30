@@ -86,16 +86,23 @@ The current Charge Controller data is sent every 2 seconds and is provided as a 
 - 6: current limiting (overpower)
 
 #### errorState values
-- B24: photovoltaic input side short circuit
-- B23: photovoltaic input overpower
-- B22: ambient temperature too high
-- B21: controller temperature too high
-- B20: load overpower or load over-current
-- B19: load short circuit
-- B18: battery under-voltage warning
-- B17: battery over-voltage
+- B31: Reserved
+- B30: Charge MOS short circuit
+- B29: Anti-reverse MOS short circuit
+- B28: Solar panel reversly connected
+- B27: Solar panel working point over-voltage
+- B26: Solar panel counter current
+- B25: Photovoltaic input side over voltage
+- B24: Photovoltaic input side short circuit
+- B23: Photovoltaic input overpower
+- B22: Ambient temperature too high
+- B21: Controller temperature too high
+- B20: Load overpower or load over-current
+- B19: Load short circuit
+- B18: Battery under-voltage warning
+- B17: Battery over-voltage
 - B16: battery over-discharge
-- B0-B15 reserved
+- B0-B15: Reserved
 
 BXX indicates the bit of the number
 
