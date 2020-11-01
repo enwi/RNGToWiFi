@@ -15,6 +15,7 @@ You can get [this kit](https://www.tindie.com/products/21360/) on my [tindie sto
 All supported and tested Charge Controllers can be found [here](https://github.com/enwi/RNGToWiFi/blob/master/controllers.md)
 
 ## Getting started
+For build instructions have a look [here](https://github.com/enwi/RNGToWiFi/blob/master/soldering.md)
 To setup your device have a look at the [Commissioning Guide](https://github.com/enwi/RNGToWiFi/blob/master/comissioning.md)
 
 ### Publishing data to MQTT
@@ -22,3 +23,6 @@ Take a look at the [MQTT Guide](https://github.com/enwi/RNGToWiFi/blob/master/mq
 
 ### Publishing data to PVOutput
 Take a look at the [PVOutput Guide](https://github.com/enwi/RNGToWiFi/blob/master/pvoutput.md)
+
+### About
+See the about section [here](https://github.com/enwi/RNGToWiFi/blob/master/about.md)
