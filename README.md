@@ -24,5 +24,8 @@ Take a look at the [MQTT Guide](https://github.com/enwi/RNGToWiFi/blob/master/mq
 ### Publishing data to PVOutput
 Take a look at the [PVOutput Guide](https://github.com/enwi/RNGToWiFi/blob/master/pvoutput.md)
 
-### About
+## About
 See the about section [here](https://github.com/enwi/RNGToWiFi/blob/master/about.md)
+
+## Support
+If you want to support my work you can store on Amazon via this link: [Amazon Referral Link](https://www.amazon.de/?tag=enwi-21). This is an affiliate link. Through a purchase via this link, I will participate in the turnover. This has no effect on the price for you.
