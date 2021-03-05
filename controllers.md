@@ -39,3 +39,11 @@ A list of Renogy Charge Controllers that have been tested (feel free to submit a
 | Model               | Version | Tested             | Compatible         | Notes |
 |:--------------------|---------|--------------------|--------------------|-------|
 | `RNG-CTRL-ADV30-LI` | VXXXXXX | :x:                | :grey_question:    | 30A model |
+
+## Non Renogy models
+
+### RICH SOLAR
+| Model               | Version | Tested             | Compatible         | Notes |
+|:--------------------|---------|--------------------|--------------------|-------|
+| `20 Amp MPPT`       | VXXXXXX | :white_check_mark: | :white_check_mark: | 20A model |
+| `40 Amp MPPT`       | VXXXXXX | :x:                | :grey_question:    | 40A model |
