@@ -1,15 +1,17 @@
 # MQTT
 `RNG to WiFi` can publish the data read from your Charge Controller to a local MQTT Broker, thus making it accessible to other devices or home automation systems.
+It supports credentials so you can also connect to secured MQTT Brokers.
 
 ## Setup
 1. Go to the MQTT tab
 2. Enter the MQTT Broker ip e.g. `192.168.2.16` in the `Broker IP` field
 3. Enter the MQTT Broker port e.g. `1883` in the `Broker Port` field (default is 1883 so if you are using the same port you can skip this step)
 4. Enter the MQTT Topic where `RNG to WiFi` should publish the data e.g `/solar/rng` (default is `/rng`)
-5. Enable the MQTT service by enabling the `Enable` switch
-6. Watch the `Status` field, it should display `Connected` if everything went according to plan
+5. Optionally enter the MQTT username and password if you use a password protected MQTT Broker (default is no credentials)
+6. Enable the MQTT service by enabling the `Enable` switch
+7. Watch the `Status` field, it should display `Connected` if everything went according to plan
 
-> Note that due to the limited resources of the ESP8266 only Brokers without authentication are supported
+> Note that due to the limited resources of the ESP8266 only Brokers without TLS/SSL are supported for now
 
 ## Troubleshooting
 ### Status field shows `IP wrong`
