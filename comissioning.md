@@ -12,14 +12,20 @@ You can also scan this QR code to connect to the WiFi network.
 ![WiFi QR](https://github.com/enwi/RNGToWiFi/blob/master/images/qr_wifi_rngbridge.png)
 
 ## Step 3
-Once connected open up a browser, type in the URL `192.168.1.1` and open the website (or click on <a href="http://192.168.1.1" target="_blank">this</a>).
-After the page loaded, you are presented with the user interface of `RNG to WiFi`.
-Alternatively you can scan this QR code to open the browser with the correct URL.
+Once connected your phone/tablet/pc should ask you to sign in to rngbridge (captive portal).
+On Android you will need to click on the popup on other devices (iOS, MacOS) the captive portal will open automatically.
+Once opened you are greeted with the GUI.
 
-![WiFi IP QR](https://github.com/enwi/RNGToWiFi/blob/master/images/qr_url_192.168.1.1.png)
+> On some devices this can take up to 30 seconds for the message to be displayed.
 
 If you want to use `RNG to WiFi` as standalone aka in access point mode you are done with comissioning now. 
 If you want to connect `RNG to WiFi` with your local WiFi network continue with step 4.
+
+>If the captive portal does not open or no message is displayed you can alternatively type in the URL `192.168.1.1` and open the website (or click on <a href="http://192.168.1.1" target="_blank">this</a>).
+>After the page loaded, you are presented with the user interface of `RNG to WiFi`.
+>Alternatively you can scan this QR code to open the browser with the correct URL.
+>
+>![WiFi IP QR](https://github.com/enwi/RNGToWiFi/blob/master/images/qr_url_192.168.1.1.png)
 
 ## Step 4
 Click on the `WiFi` tab to open the WiFi settings.
